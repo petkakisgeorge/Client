@@ -1,7 +1,9 @@
 import java.io.*;
 import java.net.Socket;
 import java.net.UnknownHostException;
-
+/**
+ @author - George Petkakis
+ */
 public class Client {
     public static void main (String[] args) {
         // arguments supply message and hostname
